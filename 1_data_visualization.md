@@ -11,6 +11,8 @@ Followings are done to make the chart
 - Aggregating to "Others" by using 'Set' function 
 
 
+Tableau Public Link: https://public.tableau.com/profile/learner.ofds#!/vizhome/ArrivalorAircraftbyNationality/Sheet1?publish=yes
+
 
 ![image](/images/tableau1.png)
 
